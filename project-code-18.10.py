@@ -318,6 +318,6 @@ canvas.Clear()
 #leg.SetTextSize(0.035) # somewhat large, may need to play with this to make the plot look ok
 #leg = ROOT.TLegend(.70,.70,.80,.85) # TLegend(x1,y1,x2,y2) where x,y are in units of percentage of canvas (i.e. x,y \in [0,1])
 #leg.AddEntry(hist_promt_c2_M,"B2DPi_promt","f") # AddEntry(TGraph/TH1D varName, what you want the legend to say for this graph, show the line)
-
+ hello friend plz work
     
     
